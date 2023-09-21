@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Serenitytest" skipped="0" tests="1" time="3.78" timestamp="2023-09-20 02:18:39"><testcase classname="Serenitytest" name="Get users"><failure message="expected:&lt;[200]&gt; but was:&lt;[404]&gt;" type="org.junit.ComparisonFailure">expected:&lt;[200]&gt; but was:&lt;[404]&gt;</failure><system-err>expected:&lt;[200]&gt; but was:&lt;[404]&gt;&#13;
+Serenitytest.getUsers(Serenitytest.java:19)&#13;
+</system-err></testcase></testsuite>
